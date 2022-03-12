@@ -42,7 +42,7 @@ body {
 .nav.active {
   background-color: whitesmoke;
 
-  box-shadow: 0 2px 10px grey;
+  box-shadow: 0 2px 15px grey;
 }
 .nav.active a {
   color: black;
@@ -50,7 +50,7 @@ body {
 .nav.active .container {
   padding: 0.5rem;
 }
-.nav a.current,
+
 .nav a:hover {
   color: red;
   /* font-weight: bold; */
